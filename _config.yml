@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: 乱七八
+subtitle: 
 description:
 keywords:
-author: John Doe
-language:
+author: Anveena
+language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://weibo.com/queshizhiniaoku/home
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -54,8 +54,7 @@ index_generator:
   order_by: -date
   
 # Category & Tag
-default_category: uncategorized
-category_map:
+default_category: think
 tag_map:
 
 # Date / Time format
@@ -73,11 +72,16 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: apollo
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:Anveena/anveena.github.io.git
+  repository: git@github.com:Anveena/Anveena.github.io.git
   branch: master
+category_map:
+    编程: programming
+    瞎扯淡: life
+    思考: think
+    大喷菇: rude
