@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://weibo.com/queshizhiniaoku/"/>
-  <updated>2019-03-31T14:00:05.640Z</updated>
+  <updated>2019-03-31T14:01:50.242Z</updated>
   <id>https://weibo.com/queshizhiniaoku/</id>
   
   <author>
@@ -21,21 +21,16 @@
     <link href="https://weibo.com/queshizhiniaoku/2019/03/31/%E4%BC%98%E9%9B%85%E7%9A%84%E8%BF%9E%E7%BB%AD/"/>
     <id>https://weibo.com/queshizhiniaoku/2019/03/31/优雅的连续/</id>
     <published>2019-03-31T13:21:11.000Z</published>
-    <updated>2019-03-31T14:00:05.640Z</updated>
+    <updated>2019-03-31T14:01:50.242Z</updated>
     
-    <content type="html"><![CDATA[<p>连续是优雅的,安全的<br>计算机是连续的,也是不连续的</p><p>##计算机的连续</p><p>代码是一行接着一行执行的.(loop / go to也一样是连续的)</p><p>##计算机的不连续</p><p>5GHz</p><p>##生命连续吗?</p><p>生命可能也不太连续.<br>比如说我这个打字,手指从抬起到press(哈哈 摁下可真的是太东北了.)虽然表面上看我的这个手指是没有跃迁的.是从上往下一点儿一点儿press的.<br>但是这个手指的callback我估计是不连续的.<br>如果说我手指的每个移动细节都是会callback的.那数据量简直灾难.我觉得是不可能的.<br>ex:大脑大脑.我是右手指.我向下移动了1个原子核直径<br>那我大脑肯定挂了呀.</p><p>##其他</p><p>这种一旦他娘的有个最小单位去概括.就没有连续性了.<br>比如说听歌.<br>模拟信号是比数字信号更连续的不连续.(连续必然等价于无穷大的数据量)<br>当这个最小单位足够小的时候,也许就很逼真,很连续了<br>但是连续真的好难啊.<br>好优雅呀.<br>从我最近对这个VGA HDMI的了解来看.显示器也太low了.<br>传统的显示器(至今)是完全没有运算能力的.<br>从信号线中获取的每个像素的明亮度 色度 浓度.<br>然后告诉二极管显示一手就完了.(YUV 420只是很简单的比YUV 444节约了一部分数据.但是其实也是说了每个像素的YUV.)<br>还有我不是很了解的(垂直刷新率/水平刷新率)<br>使我觉得显示器是一种科技完全聚集在发光二极管的’科技’产品.<br>我觉得吧.下一代显示器最起码能有个move.<br>ex:左上角的一块儿直接move到右下角<br>得去掉这个hz的概念.<br>我以前幻想的显示器是每个像素是3个RGB三棱柱(黑色的实现:降温/不给光).然后通过磁场旋转.<br>现在要实现我想的这种move.可能就需要把每个像素放在一个小船上.小船通过磁场移动.<br>那么拿经典的win10开机来说.<br>大概的信号就是.<br>win10/OEM Logo出现:<br>小船xx,小船xy,小船xz…小船zz听令:<br>把你们的船帆R转XX度,G..B..<br>这就完成了.<br>然后下面的那个转圈圈的loading图.<br>小船a0,a1,a2,a4xxxxx定义为第0舰队.<br>围绕x,y做圆周运动.一周3秒<br>其他各单位遇到注意闪避.<br>本次演习TASK ID 65537.<br>然后就是什么kill task 65537~<br>init<br>我这个显示器.渍渍.刷新率爆炸.近似连续呢~</p>]]></content>
+    <content type="html"><![CDATA[<p>连续是优雅的,安全的<br>计算机是连续的,也是不连续的</p><h2 id="计算机的连续"><a href="#计算机的连续" class="headerlink" title="计算机的连续"></a>计算机的连续</h2><p>代码是一行接着一行执行的.(loop / go to也一样是连续的)</p><h2 id="计算机的不连续"><a href="#计算机的不连续" class="headerlink" title="计算机的不连续"></a>计算机的不连续</h2><p>5GHz</p><h2 id="生命连续吗"><a href="#生命连续吗" class="headerlink" title="生命连续吗?"></a>生命连续吗?</h2><p>生命可能也不太连续.<br>比如说我这个打字,手指从抬起到press(哈哈 摁下可真的是太东北了.)虽然表面上看我的这个手指是没有跃迁的.是从上往下一点儿一点儿press的.<br>但是这个手指的callback我估计是不连续的.<br>如果说我手指的每个移动细节都是会callback的.那数据量简直灾难.我觉得是不可能的.<br>ex:大脑大脑.我是右手指.我向下移动了1个原子核直径<br>那我大脑肯定挂了呀.</p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>这种一旦他娘的有个最小单位去概括.就没有连续性了.<br>比如说听歌.<br>模拟信号是比数字信号更连续的不连续.(连续必然等价于无穷大的数据量)<br>当这个最小单位足够小的时候,也许就很逼真,很连续了<br>但是连续真的好难啊.<br>好优雅呀.<br>从我最近对这个VGA HDMI的了解来看.显示器也太low了.<br>传统的显示器(至今)是完全没有运算能力的.<br>从信号线中获取的每个像素的明亮度 色度 浓度.<br>然后告诉二极管显示一手就完了.(YUV 420只是很简单的比YUV 444节约了一部分数据.但是其实也是说了每个像素的YUV.)<br>还有我不是很了解的(垂直刷新率/水平刷新率)<br>使我觉得显示器是一种科技完全聚集在发光二极管的’科技’产品.<br>我觉得吧.下一代显示器最起码能有个move.<br>ex:左上角的一块儿直接move到右下角<br>得去掉这个hz的概念.<br>我以前幻想的显示器是每个像素是3个RGB三棱柱(黑色的实现:降温/不给光).然后通过磁场旋转.<br>现在要实现我想的这种move.可能就需要把每个像素放在一个小船上.小船通过磁场移动.<br>那么拿经典的win10开机来说.<br>大概的信号就是.<br>win10/OEM Logo出现:<br>小船xx,小船xy,小船xz…小船zz听令:<br>把你们的船帆R转XX度,G..B..<br>这就完成了.<br>然后下面的那个转圈圈的loading图.<br>小船a0,a1,a2,a4xxxxx定义为第0舰队.<br>围绕x,y做圆周运动.一周3秒<br>其他各单位遇到注意闪避.<br>本次演习TASK ID 65537.<br>然后就是什么kill task 65537~<br>init<br>我这个显示器.渍渍.刷新率爆炸.近似连续呢~</p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;连续是优雅的,安全的&lt;br&gt;计算机是连续的,也是不连续的&lt;/p&gt;
-&lt;p&gt;##计算机的连续&lt;/p&gt;
-&lt;p&gt;代码是一行接着一行执行的.(loop / go to也一样是连续的)&lt;/p&gt;
-&lt;p&gt;##计算机的不连续&lt;/p&gt;
-&lt;p&gt;5GHz&lt;/p&gt;
-&lt;p&gt;##生命连续吗?&lt;/p&gt;
-&lt;
+&lt;h2 id=&quot;计算机的连续&quot;&gt;&lt;a href=&quot;#计算机的连续&quot; class=&quot;headerlink&quot; title=&quot;计算机的连续&quot;&gt;&lt;/a&gt;计算机的连续&lt;/h2&gt;&lt;p&gt;代码是一行接着一行执行的.(loop
       
     
     </summary>
